@@ -6,12 +6,8 @@ The goal of the project is to review the various Neighborhood, Host, Room Type, 
 
 
 ## Process
-Connect to Data Source
-Review the data and perform data cleaning if required
-Create Worksheets and Dashboards
-Formatting and Customization
-Publish and Share
-Save to document to pdf, PowerPoint or any document of interest which i saved in both pdf and PowerPoint.
+I connect to Data Source after which I was able to review the data and perform some data cleaning then went ahead to create worksheets that could provide insights to the business and also created a dashboard.
+Concluded by formatting and customization of all the sheets to fit into the dashboard, then I published and share to be able to save to pdf and twbx.
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
