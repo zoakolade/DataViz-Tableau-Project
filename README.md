@@ -6,7 +6,7 @@ The goal of the project is to review the various Neighborhood, Host, Room Type, 
 
 
 ## Process
-I connect to Data Source after which I was able to review the data and perform some data cleaning then went ahead to create worksheets that could provide insights to the business and also created a dashboard.
+I connected to th data source after which I was able to review the data and perform some data cleaning then went ahead to create worksheets that could provide insights to the business and also created a dashboard.
 Concluded by formatting and customization of all the sheets to fit into the dashboard, then I published and share to be able to save to pdf and twbx.
 
 ## Results
