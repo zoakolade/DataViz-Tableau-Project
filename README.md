@@ -16,32 +16,24 @@ Save to document to pdf, PowerPoint or any document of interest which i saved in
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 The dataset I worked with is the Airbnb.xlsx which provided information regarding the business in New York City. Using the various visualization below I was able to discover some information:
-    Bar Chart (Host Bookings by Month and Neighbourhood Group - Room Type):
-        Reveals that June records the highest number of bookings in the year.
 
-    Bar Chart (Top 10 Hosts by Total Reviews):
-        Highlights Host_id 4734398 in Manhattan as the host with the highest reviews, with an average price of $50.
+Bar Chart (Host Bookings by Month and Neighbourhood Group - Room Type):
+This chart helps to show the month with the highest bookings by all the neighborhoods. The graph reveals that July records the highest number of bookings in the year. The bookings looks pretty stable month-on-month but higher bookings is experienced in July, this could be as a result of the summer season when there are lots of guest on vacation which leads to more bookings.
 
-    Bar Chart (Total Bookings by Neighbourhood Group and Room Type):
-        Indicates that Manhattan has the highest bookings across all neighbourhoods.
+Bar Chart (Top 10 Hosts by Total Reviews):
+This bar graph shows the top 10 hosts with their host id and the neighborhood they are located. It gives a quick insight on their average price and the number of reviews they have. On the business side it shows that Airbnb is striving more in Manhattan and for investors looking to invest by location they can sort for properties there
 
-    Bar Chart (Total Number of Hosts by Year):
-        Shows that 2012 had the most reviews, possibly due to increased awareness of the business.
+Tree-map (Average Price by Neighbourhood):
+This tree-map shows the size composition of the neighborhoods and their average price. We can toggle around the various room types. However, it Visualizes that Manhattan has the highest average price, followed by Staten Island and Bronx with the lowest average prices.
 
-    Bar Chart (Average Price by Neighbourhood):
-        Points out that Manhattan has the highest average price.
+Pie Chart (Neighbourhoods by Property Type):
+The pie chart shows the neighborhoods by property type Illustrates that Manhattan covers over 50% of the neighborhoods with all the type being considered. This means that the business is striving more in Manhattan irrespective of the property type.
 
-    Pie Chart (Neighbourhoods by Property Type):
-        Illustrates that Manhattan covers over 50% of the neighbourhoods.
+Highlight Table (Average Reviews Score by Room Type and Neighbourhood):
+This highlight table tries to depict the various room types and the average reviews gotten by them. It however, shows that an entire home has more reviews than a private room or shared room. This shows that guest prefers spaces without other people interference.
 
-    Highlight Table (Average Reviews Score by Room Type and Neighbourhood):
-        Provides a quick overview of average reviews scores with color thickness.
-
-    Packed Bubbles (Average Price by Neighbourhood):
-        Visualizes average prices, with Manhattan having the largest bubble, followed by Staten Island and Bronx with the lowest average prices.
-
-    Highlights (Total Hosts, Total Neighbourhoods, Average Reviews per Month, Total Reviews):
-        Utilized to emphasize key figures such as the total number of hosts, neighbourhoods in New York City, average reviews per month, and total reviews.
+Highlights (Total Hosts, Total Neighbourhoods, Average Reviews per Month, Total Reviews):
+Utilized to emphasize key figures such as the total number of hosts, neighbourhoods in New York City, average reviews per month, and total reviews.
     
 ## Challenges 
 Obtaining precise longitude and latitude coordinates from the available data is crucial in order to effectively generate geographical maps that accurately represent geographic locations and their spatial relationships.
